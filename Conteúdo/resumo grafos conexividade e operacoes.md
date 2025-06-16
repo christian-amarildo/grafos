@@ -2,11 +2,17 @@
 
 ---
 
+Claro! Aqui está a tabela atualizada com os dois novos conceitos que você forneceu:
+
+---
+
 ### 1. Conceitos-chave
 
 | Termo                                            | Definição curta                                                                              |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | **Grafo conexo**                                 | Para **todo** par de vértices existe um caminho.                                             |
+| **Grafo subjacente**                             | Versão **não direcionada** de um dígrafo (remove a orientação das arestas).                  |
+| **Subgrafo maximal (Goldbarg)**                  | Subgrafo com uma propriedade (ex: ser conexo) que **não pode ser expandido** sem perdê-la.   |
 | **Componente conexa**                            | Subgrafo **conexo-maximal**.                                                                 |
 | **Conexidade em vértices** `k_v(G)`              | Menor nº de **vértices** cuja remoção desconecta G. (articulação múltipla)                   |
 | **Conexidade em arestas** `k_e(G)`               | Menor nº de **arestas** cuja remoção desconecta G.                                           |
@@ -15,6 +21,7 @@
 | **Conjunto aresta-desconectante**                | Análogo com arestas.                                                                         |
 | **Ponte**                                        | Aresta única cuja remoção desconecta G.                                                      |
 | **Fortemente / fracamente conectado** (dígrafos) | Caminhos em **ambas** direções / somente **uma** direção.                                    |
+
 
 ---
 
